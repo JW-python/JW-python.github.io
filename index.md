@@ -1,4 +1,5 @@
 <html>
+<title>Test</title>
 	<body>        		
 		
  <h1>Hi there, Lets generate a list of 10 random cities!</h1>
