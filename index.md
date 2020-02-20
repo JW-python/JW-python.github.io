@@ -1,9 +1,9 @@
 <html>
 	<body>
-		<nav>
-    		<ul>
-        		</ul>
-		</nav>
+		
+    		
+        		
+		
      		<h1>Hi there, Lets generate a list of 10 random cities!</h1>
 		<p id="demo">Click me.</p>
     <script>
