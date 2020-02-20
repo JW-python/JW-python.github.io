@@ -29880,5 +29880,6 @@ function fisherYates (arr) {
 f=fisherYates(words);
 
 document.writeln("<p>" + f[0] + "</p>" + "<p>" + f[1] + "</p>" + "<p>" + f[2] + "</p>" + "<p>" + f[3] + "</p>" + "<p>" + f[4] + "</p>" + "<p>" + f[5] + "</p>" + "<p>" + f[6] + "</p>" + "<p>" + f[7] + "</p>" + "<p>" + f[8] + "</p>" + "<p>" + f[9] + "</p>" + "<p>");}
-    </script>        
+    </script> 
+     <body>   
 </html>
