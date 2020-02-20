@@ -6,7 +6,11 @@
         		</ul>
 		</nav>
      		<h1>Hi there, Lets generate a list of 10 random cities!</h1>
+		<p id="demo">Click me.</p>
     <script>
+document.getElementById("demo").onclick = function() {myFunction()};
+function myFunction() {
+  
 var words = [ "Holtsville,New York",
 "Adjuntas,Puerto Rico",
 "Aguada,Puerto Rico",
@@ -29876,6 +29880,6 @@ function fisherYates (arr) {
 
 f=fisherYates(words);
 
-document.writeln("<p>" + f[0] + "</p>" + "<p>" + f[1] + "</p>" + "<p>" + f[2] + "</p>" + "<p>" + f[3] + "</p>" + "<p>" + f[4] + "</p>" + "<p>" + f[5] + "</p>" + "<p>" + f[6] + "</p>" + "<p>" + f[7] + "</p>" + "<p>" + f[8] + "</p>" + "<p>" + f[9] + "</p>" + "<p>");
+document.writeln("<p>" + f[0] + "</p>" + "<p>" + f[1] + "</p>" + "<p>" + f[2] + "</p>" + "<p>" + f[3] + "</p>" + "<p>" + f[4] + "</p>" + "<p>" + f[5] + "</p>" + "<p>" + f[6] + "</p>" + "<p>" + f[7] + "</p>" + "<p>" + f[8] + "</p>" + "<p>" + f[9] + "</p>" + "<p>");}
     </script>        
 </html>
