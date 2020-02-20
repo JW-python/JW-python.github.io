@@ -1,10 +1,7 @@
 <html>
-	<body>
+	<body>        		
 		
-    		
-        		
-		
-     		<h1>Hi there, Lets generate a list of 10 random cities!</h1>
+ <h1>Hi there, Lets generate a list of 10 random cities!</h1>
 		<p id="demo">Click me.</p>
     <script>
 document.getElementById("demo").onclick = function() {myFunction()};
