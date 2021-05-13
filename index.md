@@ -3,7 +3,7 @@
 		
  <h1>Hi there, Lets generate a list of 30 random cities!</h1>
  
- <a href="random/">Random</a>
+ <a href="https://https://jw-python.github.io//random.md/">Page 2</a>
 		<p id="demo">Click me.</p>
     <script>
 document.getElementById("demo").onclick = function() {myFunction()};
